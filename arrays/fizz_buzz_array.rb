@@ -31,5 +31,4 @@ def fizz_buzz_number(number)
 end
 
 fizz_buzz_number = numbers.map{|number| fizz_buzz_number(number) }
-
 puts fizz_buzz_number
