@@ -41,7 +41,7 @@ puts <<-END_OF_MAD_LIB
   three #{plural_noun_three} a day, and fathers play golf, and mothers
   sit around #{ing_verb_three}. Last summer, my little brother
   fell in a/an #{noun_three} and got poison #{plant} all
-  over his #{body_part}. My family is going to go to the
+  over his #{body_part}. My family is going to go to (the)
   #{place}, and I will practice #{ing_verb_four}. Parents
   need vacations more than kids because parents are always very
   #{adjective_three} and because they have to work #{number}
