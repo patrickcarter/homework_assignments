@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+# commenting out to resubmit
 seconds_per_minute = 60
 # below is another way to set a name value pair
 minutes_per_hour = '60'.to_i
