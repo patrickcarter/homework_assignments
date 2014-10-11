@@ -8,4 +8,5 @@ puts string_practice.upcase
 puts string_practice.gsub("string", "'string'").capitalize
 puts "The string '#{string_practice}' has #{string_practice.length} characters"
 puts string_practice.reverse
-puts string_practice.replace('practice practice practice!')
+# Ok so I changed it 
+puts "#{string_practice[20,9] * 2}#{string_practice[20,8]}!"
