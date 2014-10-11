@@ -17,7 +17,7 @@ def sing_bottles_of_beer(number_of_bottles)
   else
     puts "\n#{pluralize(number_of_bottles)} of beer on the wall, #{pluralize(number_of_bottles)} of beer."
     number_of_bottles -= 1
-    puts "Take done down and pass it around, #{pluralize(number_of_bottles)} of beer on the wall."
+    puts "Take one down and pass it around, #{pluralize(number_of_bottles)} of beer on the wall."
     sing_bottles_of_beer(number_of_bottles)
   end
 end
