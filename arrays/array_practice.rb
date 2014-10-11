@@ -3,7 +3,7 @@
 numbers = (1..10).to_a
 
 puts "#{numbers.join('...')}..."
-puts "T-#{numbers.reverse.join(',')}... BLASTOFF!"
+puts "T-#{numbers.reverse.join(', ')}... BLASTOFF!"
 puts "The last element is #{numbers.last}"
 puts "The first element is #{numbers.first}"
 puts "The third element is #{numbers[2]}"
