@@ -16,8 +16,8 @@ puts "There are #{days_per_week} days in a week"
 seconds_per_hour = seconds_per_minute * minutes_per_hour
 seconds_per_day = seconds_per_hour * hours_per_day
 seconds_per_week = seconds_per_day * days_per_week
-puts "That means there are: \n\t#{seconds_per_hour} seconds in an hour
-\t#{seconds_per_day} seconds in a day \n\t#{seconds_per_week} seconds in a week"
+puts "That means there are: \n  #{seconds_per_hour} seconds in an hour
+  #{seconds_per_day} seconds in a day \n  #{seconds_per_week} seconds in a week"
 
 age = 20
 year = seconds_per_week * 52 * age
