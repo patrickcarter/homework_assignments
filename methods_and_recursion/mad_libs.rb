@@ -45,6 +45,6 @@ puts <<-END_OF_MAD_LIB
   #{place}, and I will practice #{ing_verb_four}. Parents
   need vacations more than kids because parents are always very
   #{adjective_three} and because they have to work #{number}
-  hours everyday all year making enough #{plural_noun_four} to pay
+  hours every day all year making enough #{plural_noun_four} to pay
   for the vacation.
 END_OF_MAD_LIB
