@@ -23,5 +23,5 @@ age = 20
 year = seconds_per_week * 52 * age
 
 puts "That means when you turn #{age} you've been alive for #{year} seconds,"
-puts "and if you make it to #{age * 5}, you will have lived for #{year * 5} seconds."
-puts 'Make them count!'
+puts "and if you make it to #{age * 5}, you will have lived #{year * 5} seconds."
+puts "Make them count!"
