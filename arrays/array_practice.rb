@@ -8,7 +8,7 @@ puts "The last element is #{numbers.last}"
 puts "The first element is #{numbers.first}"
 puts "The third element is #{numbers[2]}"
 puts "The element with an index of 3 is #{numbers[3]}"
-puts "The second from the last element is #{numbers[-2]}"
+puts "The second from last element is #{numbers[-2]}"
 puts "The first four elements are '#{numbers[0..3].join(',')}'"
 
 numbers -= [5,6,7]
